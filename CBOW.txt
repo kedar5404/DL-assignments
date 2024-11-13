@@ -1,0 +1,4 @@
+natural language processing nlp is a subfield of artificial intelligence ai focused on the interaction between computers and human language',
+ 'the goal of nlp is to enable computers to understand interpret and generate human language in a way that is both meaningful and useful',
+ 'nlp applications include speech recognition machine translation sentiment analysis and chatbot development',
+ 'researchers in nlp use techniques such as tokenization part of speech tagging named entity recognition and syntactic parsing to analyze and process text data
